@@ -19,18 +19,33 @@
 ## :book: Références
 
 Barker, Howe - *Continuous Symmetry From Euclid to Klein (2007)*
+
 Carral - *Géométrie (1995)*
+
 Casamayou-Boucau, Pantigny - *Les maths Démontrer pour comprendre (2017)*
+
 Clairaut - [*Éléments de géométrie (1753)*](https://www.e-rara.ch/zut/doi/10.3931/e-rara-4548)
+
 David, Hyvernat, Nour, Raffalli - *Les démonstrations mathématiques (2017)*
+
 Laczkovich - *Conjecture and proof (2001)*
+
 Lebossé, Hémery - *Arithmétique et Géométrie Classe de cinquième (1963)*
+
 Long, DeTemple, Millman - *Mathematical Reasoning for Elementary Teachers (2015)*
+
 Monge, Guinchan - *Mathématiques Classe de quatrième (1964)*
+
 Niven - Numbers : rational and irrational (1961)
+
 Perrin - [*Entiers naturels et relatifs (2006)*](https://www.imo.universite-paris-saclay.fr/~perrin/CAPES/arithmetique/EntiersCAPES.pdf)
+
 Perrin - *mathématiques d'école nombres, mesures et géométrie (2005)*
+
 Perrin - [*Sur la géométrie*](https://www.imo.universite-paris-saclay.fr/~perrin/geometrie.html)
+
 Wu - *Teaching School Mathematics : Pre-Algebra (2016)*
+
 Wu - *Teaching School Mathematics : Algebra (2016)*
+
 Wu - *Understanding Numbers in Elementary School Mathematics (2011)*
